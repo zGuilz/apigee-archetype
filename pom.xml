@@ -89,43 +89,25 @@
         </extensions>
     </build>
     <!-- More Project Information -->
-    <name>maven-archetype-apigee-proxy</name>
-    <description>An archetype to generate a sample Apigee Edge API Proxy.</description>
-    <url>https://github.com/bhatikuldeep/maven-archetype-apigee-proxy</url>
-    <licenses>
-        <license>
-            <name>Apache License, Version 2.0</name>
-            <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-            <comments>A business-friendly OSS license</comments>
-        </license>
-    </licenses>
-    <organization>
-        <name>Kuldeep Bhati</name>
-        <url>http://kuldeepbhati.com</url>
-    </organization>
+    <name>apigee-archtype</name>
+    <description>Modelo Padrão de API Proxy do Apigee</description>
+    <url>https://github.com/zGuilz/apigee-archetype</url>
     <developers>
         <developer>
-            <id>bhatikuldeep</id>
-            <name>Kuldeep Bhati</name>
-            <email>bhatikuldeep@gmail.com</email>
-            <url>https://github.com/bhatikuldeep/maven-archetype-apigee-proxy</url>
-            <organization>bhatikuldeep</organization>
-            <organizationUrl>http://kuldeepbhati.com</organizationUrl>
+            <id>zGuilz</id>
+            <name>Guilherme Ferreira</name>
+            <url>https://github.com/zGuilz/apigee-archetype</url>
             <roles>
                 <role>architect</role>
                 <role>developer</role>
             </roles>
-            <timezone>Europe/Amsterdam</timezone>
-            <properties>
-                <picUrl>https://en.gravatar.com/userimage/4601822/10c1bbbfc3bd9818e48d24e4056900c6.png</picUrl>
-            </properties>
+            <timezone>American/Brazil</timezone>
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:bhatikuldeep/maven-archetype-apigee-proxy.git</connection>
-        <developerConnection>scm:svn:https://github.com/bhatikuldeep/maven-archetype-apigee-proxy.git</developerConnection>
+        <connection>scm:git:git@github.com:zGuilz/apigee-archetype.git</connection>
+        <developerConnection>scm:svn:https://github.com/zGuilz/apigee-archetype.git</developerConnection>
         <tag>HEAD</tag>
-        <url>https://github.com/bhatikuldeep/maven-archetype-apigee-proxy</url>
+        <url>https://github.com/zGuilz/apigee-archetype</url>
     </scm>
 </project>
